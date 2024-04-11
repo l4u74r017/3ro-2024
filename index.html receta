@@ -1,0 +1,35 @@
+<!--escribir un documento html utilizando etiquetas de texto sobre una receta de cocina
+-->
+    <h1>Quick hummus recipe</h1>
+
+    <h5>his recipe makes quick, tasty hummus, with no messing. It has been adapted from a number of different recipes that I have read over the years.</h5>
+
+    <h5>Hummus is a delicious thick paste used heavily in Greek and Middle Eastern dishes. It is very tasty with salad, grilled meats and pitta breads.</h5>
+
+     <h3>Ingredients</h3>
+
+        <li> can (400g) of chick peas (garbanzo beans)</li>
+        <li> 175g of tahini</li>
+        <li> 6 sundried tomatoes</li>
+        <li> Half a red pepper</li>
+        <li> A pinch of cayenne pepper</li>
+        <li> 1 clove of garlic</li>
+        <li> A dash of olive oil</li> 
+
+     <h3>Ingredients</h3>
+
+    <ol> 1. Remove the skin from the garlic, and chop coarsely</ol>
+    <ol> 2. Remove all the seeds and stalk from the pepper, and chop coarsely</ol>
+    <ol> 3. Add all the ingredients into a food processor</ol>
+    <ol> 4. Process all the ingredients into a paste</ol>
+    <ol> 5. If you want a coarse "chunky" hummus, process it for a short time</ol>
+    <ol> 6. If you want a smooth hummus, process it for a longer time</ol>
+
+    <h5>For a different flavour, you could try blending in a small measure of lemon and coriander, chili pepper, lime and chipotle, harissa and mint, or spinach and feta cheese.</h5>
+    <h5>Experiment and see what works for you.</h5>
+
+    <h3>Storage</h3>
+
+    <h5>Refrigerate the finished hummus in a sealed container. You should be able to use it for about a week after you've made it. If it starts to become fizzy, you should definitely discard it.</h5>
+
+    <h5>Hummus is suitable for freezing; you should thaw it and use it within a couple of months.</h5>
